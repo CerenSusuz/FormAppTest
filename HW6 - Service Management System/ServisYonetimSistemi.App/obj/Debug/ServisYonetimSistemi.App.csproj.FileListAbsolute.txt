@@ -1,0 +1,12 @@
+C:\Users\CEREN\Desktop\ServisYonetimSistemi.App\bin\Debug\ServisYonetimSistemi.App.exe.config
+C:\Users\CEREN\Desktop\ServisYonetimSistemi.App\bin\Debug\ServisYonetimSistemi.App.exe
+C:\Users\CEREN\Desktop\ServisYonetimSistemi.App\bin\Debug\ServisYonetimSistemi.App.pdb
+C:\Users\CEREN\Desktop\ServisYonetimSistemi.App\obj\Debug\ServisYonetimSistemi.App.csprojAssemblyReference.cache
+C:\Users\CEREN\Desktop\ServisYonetimSistemi.App\obj\Debug\ServisYonetimSistemi.App.exe
+C:\Users\CEREN\Desktop\ServisYonetimSistemi.App\obj\Debug\ServisYonetimSistemi.App.pdb
+C:\Users\CEREN\Desktop\VS C# Codes\HW\ServisYonetimSistemi.App\bin\Debug\ServisYonetimSistemi.App.exe.config
+C:\Users\CEREN\Desktop\VS C# Codes\HW\ServisYonetimSistemi.App\bin\Debug\ServisYonetimSistemi.App.exe
+C:\Users\CEREN\Desktop\VS C# Codes\HW\ServisYonetimSistemi.App\bin\Debug\ServisYonetimSistemi.App.pdb
+C:\Users\CEREN\Desktop\VS C# Codes\HW\ServisYonetimSistemi.App\obj\Debug\ServisYonetimSistemi.App.csprojAssemblyReference.cache
+C:\Users\CEREN\Desktop\VS C# Codes\HW\ServisYonetimSistemi.App\obj\Debug\ServisYonetimSistemi.App.exe
+C:\Users\CEREN\Desktop\VS C# Codes\HW\ServisYonetimSistemi.App\obj\Debug\ServisYonetimSistemi.App.pdb

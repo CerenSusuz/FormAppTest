@@ -1,0 +1,6 @@
+C:\Users\CEREN\Desktop\CerenSusuzHW4.App\obj\Debug\CerenSusuzHW4.App.csprojAssemblyReference.cache
+C:\Users\CEREN\Desktop\CerenSusuzHW4.App\bin\Debug\CerenSusuzHW4.App.exe.config
+C:\Users\CEREN\Desktop\CerenSusuzHW4.App\bin\Debug\CerenSusuzHW4.App.exe
+C:\Users\CEREN\Desktop\CerenSusuzHW4.App\bin\Debug\CerenSusuzHW4.App.pdb
+C:\Users\CEREN\Desktop\CerenSusuzHW4.App\obj\Debug\CerenSusuzHW4.App.exe
+C:\Users\CEREN\Desktop\CerenSusuzHW4.App\obj\Debug\CerenSusuzHW4.App.pdb

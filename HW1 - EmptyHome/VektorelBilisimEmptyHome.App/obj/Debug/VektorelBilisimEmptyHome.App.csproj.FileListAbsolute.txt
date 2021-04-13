@@ -1,0 +1,6 @@
+C:\Users\CEREN\Desktop\Yeni klasör (2)\VektorelBilisimEmptyHome.App\obj\Debug\VektorelBilisimEmptyHome.App.csprojAssemblyReference.cache
+C:\Users\CEREN\Desktop\Yeni klasör (2)\VektorelBilisimEmptyHome.App\bin\Debug\VektorelBilisimEmptyHome.App.exe.config
+C:\Users\CEREN\Desktop\Yeni klasör (2)\VektorelBilisimEmptyHome.App\bin\Debug\VektorelBilisimEmptyHome.App.exe
+C:\Users\CEREN\Desktop\Yeni klasör (2)\VektorelBilisimEmptyHome.App\bin\Debug\VektorelBilisimEmptyHome.App.pdb
+C:\Users\CEREN\Desktop\Yeni klasör (2)\VektorelBilisimEmptyHome.App\obj\Debug\VektorelBilisimEmptyHome.App.exe
+C:\Users\CEREN\Desktop\Yeni klasör (2)\VektorelBilisimEmptyHome.App\obj\Debug\VektorelBilisimEmptyHome.App.pdb

@@ -1,0 +1,6 @@
+C:\Users\CEREN\Desktop\SayısalLoto.App\obj\Debug\SayısalLoto.App.csprojAssemblyReference.cache
+C:\Users\CEREN\Desktop\SayısalLoto.App\bin\Debug\SayısalLoto.App.exe.config
+C:\Users\CEREN\Desktop\SayısalLoto.App\bin\Debug\SayısalLoto.App.exe
+C:\Users\CEREN\Desktop\SayısalLoto.App\bin\Debug\SayısalLoto.App.pdb
+C:\Users\CEREN\Desktop\SayısalLoto.App\obj\Debug\SayısalLoto.App.exe
+C:\Users\CEREN\Desktop\SayısalLoto.App\obj\Debug\SayısalLoto.App.pdb

@@ -1,0 +1,6 @@
+C:\Users\CEREN\Desktop\VS C# Codes\CerenSusuzHW2\OddEvenStars.App\bin\Debug\OddEvenStars.App.exe.config
+C:\Users\CEREN\Desktop\VS C# Codes\CerenSusuzHW2\OddEvenStars.App\bin\Debug\OddEvenStars.App.exe
+C:\Users\CEREN\Desktop\VS C# Codes\CerenSusuzHW2\OddEvenStars.App\bin\Debug\OddEvenStars.App.pdb
+C:\Users\CEREN\Desktop\VS C# Codes\CerenSusuzHW2\OddEvenStars.App\obj\Debug\OddEvenStars.App.csprojAssemblyReference.cache
+C:\Users\CEREN\Desktop\VS C# Codes\CerenSusuzHW2\OddEvenStars.App\obj\Debug\OddEvenStars.App.exe
+C:\Users\CEREN\Desktop\VS C# Codes\CerenSusuzHW2\OddEvenStars.App\obj\Debug\OddEvenStars.App.pdb

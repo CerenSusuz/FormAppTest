@@ -1,0 +1,6 @@
+C:\Users\CEREN\Desktop\SanalBebek.App\bin\Debug\SanalBebek.App.exe.config
+C:\Users\CEREN\Desktop\SanalBebek.App\bin\Debug\SanalBebek.App.exe
+C:\Users\CEREN\Desktop\SanalBebek.App\bin\Debug\SanalBebek.App.pdb
+C:\Users\CEREN\Desktop\SanalBebek.App\obj\Debug\SanalBebek.App.csprojAssemblyReference.cache
+C:\Users\CEREN\Desktop\SanalBebek.App\obj\Debug\SanalBebek.App.exe
+C:\Users\CEREN\Desktop\SanalBebek.App\obj\Debug\SanalBebek.App.pdb
